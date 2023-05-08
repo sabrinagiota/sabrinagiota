@@ -24,7 +24,7 @@ import Desenvolvedor from 'sabrinagiota';
     nome  = 'Sabrina';
     area  = 'Desenvolvimento web';
     local = 'Natal/RN';
-    fopco = 'front-end em busca de fullstack';
+    foco = 'front-end em busca de fullstack';
   }
 ```
 
