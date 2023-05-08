@@ -21,8 +21,8 @@
 import Desenvolvedor from 'sabrinagiota';
   
   class SobreMim extends Desenvolvedor {
-    nome     = 'Sabrina';
-    area    = 'Desenvolvimento web';
+    nome  = 'Sabrina';
+    area  = 'Desenvolvimento web';
     local = 'Natal/RN';
     fopco = 'front-end em busca de fullstack';
   }
