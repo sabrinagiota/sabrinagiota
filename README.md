@@ -17,16 +17,19 @@
   
    <img align="right" width="250" height="188" src="https://user-images.githubusercontent.com/79128442/236655574-84832a6c-7799-45ef-9e5b-82a9771128ed.gif"/>
   
-js
+```js
 import Desenvolvedor from 'sabrinagiota';
   
   class SobreMim extends Desenvolvedor {
     nome     = 'Sabrina';
     area    = 'Desenvolvimento web';
     local = 'Natal/RN';
-    foco = 'Front-end em busca de fullstack';
+    fopco = 'front-end em busca de fullstack';
   }
+```
 
- <div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)  
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
