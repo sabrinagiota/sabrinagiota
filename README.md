@@ -15,7 +15,7 @@
   
   ##
   
-   <img align="right" width="250" height="188" src="https://user-images.githubusercontent.com/79128442/236655574-84832a6c-7799-45ef-9e5b-82a9771128ed.gif"/>
+   <img align="right" width="250" src="https://user-images.githubusercontent.com/79128442/236655574-84832a6c-7799-45ef-9e5b-82a9771128ed.gif"/>
   
 ```js
 import Desenvolvedor from 'sabrinagiota';
